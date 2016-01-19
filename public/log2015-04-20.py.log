@@ -1,0 +1,97 @@
+[Mon Apr 20 10:18:12 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 10:18:12 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 10:18:12 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 10:18:12 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 10:18:12 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 10:18:12 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 10:19:02 2015][proxy_switch.py][proxy] switch server: 120.24.79.135
+[Mon Apr 20 10:21:10 2015][proxy_switch.py][proxy] switch server: 120.24.79.135
+[Mon Apr 20 10:28:38 2015][proxy_switch.py][proxy] switch server: 120.24.79.135
+[Mon Apr 20 10:28:39 2015][urlsscan.py][xss] begin scan url http://wifiapi02.51y5.net/wifiapi/rd.do?f=wifisafe&b=safe001&rurl=http://software.it168.com/a2015/0301/1707/000001707781.shtml
+[Mon Apr 20 10:28:39 2015][xss_scan.py][xss] test url http://wifiapi02.51y5.net/wifiapi/rd.do?f=wifisafe&b=safe001&rurl=http://software.it168.com/a2015/0301/1707/000001707781.shtml
+[Mon Apr 20 10:28:43 2015][urlsscan.py][xss] begin scan url http://kiss.3g.qq.com/activeQQ/softLicen.jsp?pagNo=1
+[Mon Apr 20 10:28:43 2015][xss_scan.py][xss] test url http://kiss.3g.qq.com/activeQQ/softLicen.jsp?pagNo=1
+[Mon Apr 20 10:28:44 2015][urlsscan.py][xss] begin scan url http://a.app.qq.com/g/s?aid=forward_a&appid=48810F
+[Mon Apr 20 10:28:44 2015][xss_scan.py][xss] test url http://a.app.qq.com/g/s?aid=forward_a&appid=48810F
+[Mon Apr 20 10:28:45 2015][urlsscan.py][xss] begin scan url http://y.qq.com/w/sign.html?uin=
+[Mon Apr 20 10:28:45 2015][xss_scan.py][xss] test url http://y.qq.com/w/sign.html?uin=
+[Mon Apr 20 10:28:45 2015][urlsscan.py][xss] begin scan url http://data.music.qq.com/playsong.html?source=qqsign&amp
+[Mon Apr 20 10:28:45 2015][xss_scan.py][xss] test url http://data.music.qq.com/playsong.html?source=qqsign&amp
+[Mon Apr 20 10:29:12 2015][proxy_switch.py][proxy] switch server: 120.24.79.135
+[Mon Apr 20 10:29:12 2015][urlsscan.py][sqlinject] begin scan url http://wifiapi02.51y5.net/wifiapi/rd.do?f=wifisafe&b=safe001&rurl=http://software.it168.com/a2015/0301/1707/000001707781.shtml
+[Mon Apr 20 10:29:15 2015][urlsscan.py][sqlinject] begin scan url http://kiss.3g.qq.com/activeQQ/softLicen.jsp?pagNo=1
+[Mon Apr 20 10:29:16 2015][urlsscan.py][sqlinject] begin scan url http://a.app.qq.com/g/s?aid=forward_a&appid=48810F
+[Mon Apr 20 14:26:32 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\MainActivitybb.smali
+[Mon Apr 20 14:26:32 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\MainActivitybb.smali
+[Mon Apr 20 14:26:32 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:32 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:32 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:32 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:53 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\original\MainActivitygg.smali
+[Mon Apr 20 14:26:53 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\original\MainActivitygg.smali
+[Mon Apr 20 14:26:53 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:53 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:53 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:53 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:54 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\MainActivitytt.smali
+[Mon Apr 20 14:26:54 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\MainActivitytt.smali
+[Mon Apr 20 14:26:54 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:54 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:54 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:54 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:56 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 14:26:56 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 14:26:56 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:56 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:26:56 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:26:56 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:27:52 2015][web_view_db.py][error] 3
+[Mon Apr 20 14:28:31 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\MainActivitybb.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\MainActivitybb.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\original\MainActivitygg.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\original\MainActivitygg.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\MainActivitytt.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\MainActivitytt.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:31 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:28:31 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:28:36 2015][web_view_db.py][error] 3
+[Mon Apr 20 14:30:33 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\MainActivitybb.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\MainActivitybb.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\original\MainActivitygg.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\original\MainActivitygg.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\MainActivitytt.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\MainActivitytt.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate
+[Mon Apr 20 14:30:33 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 20 14:30:33 2015][webview.py][webview] method: onCreate

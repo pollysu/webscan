@@ -1,0 +1,12 @@
+[Mon Apr 13 16:34:13 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 13 16:34:13 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 13 16:34:13 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 13 16:34:13 2015][webview.py][webview] method: onCreate
+[Mon Apr 13 16:34:13 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 13 16:34:13 2015][webview.py][webview] method: onCreate
+[Mon Apr 13 17:50:26 2015][webview.py][webview] check D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 13 17:50:26 2015][webview.py][webview] found webview vul in D:\~Work\Github\webscan\src\lib\core\appscan\smali\app-release-addjs\smali\com\example\idhyt\webview\MainActivity.smali
+[Mon Apr 13 17:50:26 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 13 17:50:26 2015][webview.py][webview] method: onCreate
+[Mon Apr 13 17:50:26 2015][webview.py][webview] activity: Lcom/example/idhyt/webview/MainActivity
+[Mon Apr 13 17:50:26 2015][webview.py][webview] method: onCreate
